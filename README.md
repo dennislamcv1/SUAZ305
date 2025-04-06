@@ -1,5 +1,5 @@
 # SUAZ305
-## AZ-305 Designing MS Azure Infrastructure Solutions Exam Prep Specialization
+## AZ-305 Designing MS Azure Infrastructure Solutions Exam Prep Specialization (3 course series)
 
 This specialization is specifically designed to guide you in preparing for the Designing Microsoft Azure Infrastructure Solutions (AZ-305) exam. This courses in this specialization provide you with a comprehensive understanding of the dynamic landscape of cloud architecture and deepen your knowledge of Azure’s robust infrastructure services, equipping you with the skills to design and implement scalable, secure, and resilient solutions.  
 
